@@ -18,9 +18,13 @@ These dashboards and reports showcase insights extracted from various real-world
 ## 📁 Repository Structure
 
 📦 PowerBI-Projects/
+
 ┣ 📄 AmazonPrimeTitles.pbix
+
 ┣ 📄 AppleDataAnalysis.pbix
+
 ┣ 📄 BollywoodAnalysis.pbix
+
 ┗ 📄 README.md
 
 
@@ -36,23 +40,22 @@ Each `.pbix` file corresponds to a separate dashboard project with its own insig
 2. **Clone or Download this Repository**
    ```bash
    git clone https://github.com/your-username/PowerBI-Projects.git ```
-3. Open Any .pbix File in Power BI Desktop
-4. 
-Explore visuals, filters, and interact with the data.
+3. **Open Any .pbix File in Power BI Desktop**
+4. **Explore visuals, filters, and interact with the data.**
 
-📌 Topics Covered
+## 📌 Topics Covered
 
-Data cleaning and transformation
+•Data cleaning and transformation
 
-Data modeling and relationships
+•Data modeling and relationships
 
-Time-series analysis
+•Time-series analysis
 
-KPI tracking
+•KPI tracking
 
-Drill-through and slicer functionality
+•Drill-through and slicer functionality
 
-🎯 Purpose
+## 🎯 Purpose
 
 To demonstrate my proficiency in using Power BI for turning raw datasets into meaningful, interactive, and visual insights that can support business decisions.
 Custom measures using DAX
